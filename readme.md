@@ -10,6 +10,7 @@
 ## connecting jdbc:mem:testdb
 <img width="1907" height="872" alt="image" src="https://github.com/user-attachments/assets/902b0403-f36c-4957-a1d4-3ac22d8fe580" />
 
+<img width="1906" height="904" alt="image" src="https://github.com/user-attachments/assets/227a1512-a483-4183-9ef2-33f1bcfe0969" />
 
 
 
