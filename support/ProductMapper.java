@@ -10,8 +10,8 @@ import org.springframework.stereotype.Component;
 public class ProductMapper {
 
     public Product toProduct (ProductRequest productRequest){
-        return new Product(productRequest.getName());
-
+        return new Product();
+        // productRequest.getName() removed parameter for updated Product Class
     }
 
     public Product toProduct(Product product, UpdateProductRequest updateProductRequest){
