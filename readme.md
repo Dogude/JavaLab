@@ -12,6 +12,8 @@
 
 <img width="1906" height="904" alt="image" src="https://github.com/user-attachments/assets/227a1512-a483-4183-9ef2-33f1bcfe0969" />
 
+## Running simple SQL command on database
+<img width="1135" height="509" alt="image" src="https://github.com/user-attachments/assets/f66570c2-365f-4c7b-83c6-a75caf6726dc" />
 
 
 
