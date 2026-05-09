@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 @Service
-public class ProductService {
+public class ProductService  {
 
 
     private final ProductRepository productRepository;
